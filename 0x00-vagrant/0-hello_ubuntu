@@ -1,1 +1,1 @@
-The uname command prints the name of the operating system that we're using. In our case it's printing Ubuntu.
+The uname command prints the name of the operating system that we're using. In our case it's printing Linux.
